@@ -9,3 +9,5 @@ Pagina web para materia de Tecnologias y multimedia:
   <li> sucursales : se muestran diferentes sucursales etc...
   <li> Contacto: aqui se introduce el chat de texto simulado y el correo de las clinicas, asi como telefonos.
   </ul>
+#Preview
+https://htmlpreview.github.io/?https://github.com/Charxies/Tec-Mul/blob/master/pages/Index.html
