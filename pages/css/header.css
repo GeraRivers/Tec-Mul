@@ -1,0 +1,77 @@
+/* global header appearance*/
+#header {
+    border-radius: 0px 0px 10px 10px;
+    background-color: #f6f6f6;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+    padding:8px;
+    box-align: top;
+    margin: 0%;
+}
+#header2 {
+    border-radius: 10px 10px 10px 10px;
+    background-color: #f6f6f6;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-attachment: fixed;
+    text-align: center;
+    font-size: 16px;
+    color: black;
+    font-family: sans-serif;
+    padding:6px;
+    box-align: bottom;
+}
+#leftlogo{
+    float: left;
+    width: auto;
+    height: auto;
+    border-image-repeat: stretch;
+    border-image-slice: fill;
+    border-image-width: 1;
+    border-right-width: 0;
+    border-left-width: 0;
+    border-top-width: 0;
+    border-bottom-width:0; 
+    background-repeat: no-repeat;
+    background-position: left;
+    background-attachment: fixed;
+    font-family: sans-serif;
+    padding: 10px 30px;
+}#rightlogo{
+    float: right;
+    width: auto;
+    height: auto;
+    border-image-repeat: stretch;
+    border-image-slice: fill;
+    border-image-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+    border-top-width: 0;
+    border-bottom-width:0; 
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+    font-family: sans-serif;
+    padding: 30px 30px;
+}#bottom{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDrP10CXh1Gkh0DVi0fWEUSdpLc4rpXqO_E9evEBsWTyfWLKa_");
+        background-color: #f6f6f6;
+        background-repeat: no-repeat;
+        background-position: left;
+        background-attachment: fixed;
+        bottom: 0;
+        width: 100%;
+        margin: 0;
+        padding: 20px;
+
+    } .bottomcont{
+        font-family: sans-serif;
+        text-align: right;
+        font-size: 12px;
+        color: black;
+    }
+

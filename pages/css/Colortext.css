@@ -1,0 +1,13 @@
+/*global text color*/
+#bluetext {
+	text-align:justify;
+	color: blue
+}
+#whitetext{
+	text-align:justify;
+	color: white
+}
+#tealtext{
+	text-align: justify;
+	color: teal
+}

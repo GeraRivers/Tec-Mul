@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="utf-8">
+<style type="text/css" rel="stylesheet" href=""></style>
+	<link rel="stylesheet" href="whitetext.css">
+	 <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+  <link rel="stylesheet" href="/resources/demos/style.css">
+ <!--///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+	
+
+
+ <!--//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+	<link rel="stylesheet" href="header.css">
+	<div id="header">
+<h1>Calendario Estudiantil</h1>
+</div>
+<div id="whitetext">
+    <div id="nombre">Nombre:</div>
+	<div id="escuela">Escuela:</div>
+	<div id="semestre">Semestre:</div>
+	<script src="main.js"></script> 
+    <meta name="description" content="Un calendario personal para el estudiante.">
+    <meta name="viewport" content="width=device-width">
+    <link type="text/css" rel="stylesheet" href="style.css">
+	<title>UANL CALENDARIO | ESTUDIANTE </title>
+</head>
+<!---////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+<body>
+    <br>
+     <h2>En esta pagina podras:</h2>
+     <ul>
+ 		<li>Organizar un calendario.</li>
+ 		<li><a href="https://www.nexus.uanl.mx/App/login/wfloginNx.htm">Organizar tus tareas </a></li>
+  		<li>Marcar las fechas de examenes</li>
+  		<li>Marcar Dead-lines</li>
+	 </ul>
+	
+</div>
+<!--//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////--> 
+ 
+ <!--//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=ss63jpqc85ehlijdf0mnmsj254%40group.calendar.google.com&amp;color=%23333333&amp;ctz=America%2FMexico_City" style="border:solid 1px #777" width="1000" height="600" frameborder="0">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	<script src="main.js"></script>
+ 
+</body>

@@ -1,0 +1,60 @@
+
+  body {
+    background: rgba(208,228,245,0.19) url("https://cdn.suwalls.com/wallpapers/nature/blue-mountain-range-26305-1920x1080.jpg") 50% 0%;
+    background-blend-mode: hue;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+    line-height: 2;
+    font-size: 17px;
+  }
+  /* video style*/
+  #Video {
+    position: relative;
+    align-content: space-around;
+    left: 0;
+    height: auto;
+  }
+  /*description*/
+  .vddcontent {
+    bottom: 0;
+    background: rgba(117, 97, 97, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    text-align: left;
+    padding: 20px;
+  }
+  /*video button*/
+  #VidBttn {
+    width: 120px;
+    font-size: 14px;
+    padding: 10px;
+    border: none;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+  }#columns-2{
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+    -webkit-column-gap: 30px;
+    -moz-column-gap: 30px;
+    column-gap: 30px;
+    -webkit-column-rule: 1px solid #1C6EA4;
+    -moz-column-rule: 1px solid #1C6EA4;
+    column-rule: 1px solid #1C6EA4;
+  }#columns-3{
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+    -webkit-column-gap: 20px;
+    -moz-column-gap: 20px;
+    column-gap: 20px;
+    -webkit-column-rule: 1px solid #1C6EA4;
+    -moz-column-rule: 1px solid #1C6EA4;
+    column-rule: 1px solid #1C6EA4;
+  }
+  #VidBttn:hover {
+    background: #ddd;
+    background-color: #333;
+  }
