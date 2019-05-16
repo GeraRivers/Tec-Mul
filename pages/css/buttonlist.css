@@ -1,19 +1,22 @@
-ul {
+
+ ul {
     list-style-type: none;
     border-radius: 10px 10px 10px 10px;
     margin: 0;
     text-align: center;
     padding: 0;
+    font-style:  'Lato', sans-serif;
     overflow: hidden;
     background-color: #333;
   }
 
-  li a,li, .dropbtn {
+   li a,li, .dropbtn {
     display: inline-block;
     color: white;
     text-align: center;
     text-decoration: none;
-    text-size-adjust: 20px;
+    font-style: inherit;
+    text-size-adjust: 16px;
     padding:7px 6px;
 
   }
@@ -21,7 +24,6 @@ ul {
     border-radius: 10px 10px 10px 10px;
     box-sizing: border-box;
     text-size-adjust: 20px;
-
     background-color: red;
     padding:7px 6px;
     
@@ -52,4 +54,32 @@ ul {
     border-radius: 10px 10px 10px 10px;
     text-size-adjust: 20px;
     display: block;
+}
+#list-1 ul{
+  margin-left: 1.1rem;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1.25rem;
+  background-color:transparent;
+  list-style-position: outside;
+  font-style:  'Lato', sans-serif;
+  background: transparent;
+}
+.list-1 li,.list-1 li a{
+    display: block;
+    padding: 2px;
+    border-left: 5px solid rgb(0, 36, 33);
+    color: black;
+    margin-bottom: 5px;
+    background: #f9f9f9;
+    font-style: inherit;
+}.list-1 li a:hover{
+  box-sizing: border-box;
+  text-size-adjust: 20px;
+  background-color: red;
+  display: block;
+  padding: 2px;
+  color: white;
+  margin-bottom: 5px;
+  font-style: inherit;
 }
